@@ -1,0 +1,2 @@
+# Python-embeddable-template
+Python embeddableを使用した配布用Python環境のテンプレート
